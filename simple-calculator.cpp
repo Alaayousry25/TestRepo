@@ -28,6 +28,7 @@ int main()
 	}
 	if(flag ==0)
 		std::cout << "the result is = " << result<<"\n";
-    }
     flag=0;
+    }
+    
 }
